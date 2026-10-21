@@ -1,2 +1,8 @@
+theme: minima
 name: ""
 title: null
+plugins:
+  - jekyll-remote-theme
+
+# 2. Reference the GitHub repository of the custom theme using "owner/repository-name"
+remote_theme: pmarsceill/just-the-docs
